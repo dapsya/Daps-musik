@@ -9,7 +9,7 @@
     <a href="https://t.me/privategrupnya"> Support Chat </a> 
 </p>
     
-# Ayiin Music Bot
+# ᴅ♬ᴘs Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 
@@ -99,3 +99,4 @@ Special thanks to these amazing projects/people which/who help power Ayiin Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 - [AyiinXd](https://github.com/AyiinXd)
+- [SI DAPS](https://github.com/dapsya)
